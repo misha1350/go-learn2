@@ -1,3 +1,5 @@
+// Binary Search
+// https://leetcode.com/problems/binary-search/
 package main
 
 import "fmt"

@@ -1,3 +1,5 @@
+// Guess Number Higher or Lower
+// https://leetcode.com/problems/guess-number-higher-or-lower/
 package main
 
 import "fmt"
@@ -20,7 +22,7 @@ func guessNumber(n int) int {
 }
 
 func main() {
-	fmt.Println(guessNumber(84)) // should return 42
+	fmt.Println(guessNumber((6 * 7 * 2))) // should return 42
 }
 
 func guess(mid int) int {
